@@ -1,1 +1,3 @@
 # nosql-challenge
+
+For this project, I was tasked with analyzing the ratings given by the UK Food Standards Agency to evaluate potential restaurants to visit. Using PyMongo and MongoDB, the database was loaded into the Jupyter Notebook. Once data was uploaded, additional modifications were made to the dataset, with adding and updating various documents. Afterwards, an exploratory analysis of the restaurants was done to find various restaurants with various hygiene scores. 
